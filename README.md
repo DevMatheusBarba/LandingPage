@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://www.youtube.com/watch?v=llF6vD-RljE
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/DevMatheusBarba/LandingPage/main/perfil.png)
+![](https://raw.githubusercontent.com/DevMatheusBarba/LandingPage/main/perfil.png#vitrinedev)
 
 ## Detalhes do projeto
 
